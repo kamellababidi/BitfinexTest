@@ -1,6 +1,6 @@
 import { store } from '../store';
 import { setIsConnected, updateBooks } from '../store/book/slice';
-import { IBook } from '../types/book';
+import { IBook } from '../store/book/types';
 
 import _ from 'lodash';
 
